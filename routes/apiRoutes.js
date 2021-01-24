@@ -34,4 +34,21 @@ module.exports = function (app) {
 
   // });
 
-};
+  app.delete('/api/notes/:id', (req, res) => {
+    let id = req.params.id;
+    let noteID = (element) => element.id === id;
+    let removeNote = savedNotes.findIndex(noteID);
+
+    savedNotes.splice(removeNote, 1);
+
+    fs.writeFile("./db/db.json", JSON.stringify(savedNotes), (err) => {
+      if (err) {
+        console.log(err);
+        res.sendStatus(404);
+      } else {
+        console.log("Note deleted");
+        res.sendStatus(200);
+      }
+    });
+  });
+}
