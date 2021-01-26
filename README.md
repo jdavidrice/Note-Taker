@@ -20,11 +20,11 @@ This is an application that can be used to write, save, and delete notes. It wil
 
 ## Installation
 
-Fork this repository and download it to your computer. Install [Node.js](https://nodejs.org/en/download/) for your operating system. Install the Node Project Manager [NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
+There is nothing to install to use this application. 
 
 ## Usage 
 
-Use this note-taking app to save your notes throughout the day. 
+After navigating to the URL specified above, click on the "Get Started" button. Enter in a name for your note by clicking on the words "Note Title." Do the same to enter in the main content of your note. Click on the save icon (which looks like a floppy disk) when you are done writing. To delete a note, click on the red trash can icon to the right of its name. 
 
 ## Questions
 
