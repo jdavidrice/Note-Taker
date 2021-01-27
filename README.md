@@ -4,7 +4,7 @@
 
 ## Description 
 
-This is an application that can be used to write, save, and delete notes. It will use an express backend and save and retrieve note data from a JSON file. 
+This is an application that can be used to write, save, and delete notes. It uses an Express.js backend and saves and retrieves note data from a JSON file. 
 
 [Deployed Application](https://secure-sands-41336.herokuapp.com/)
 
