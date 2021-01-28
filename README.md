@@ -18,6 +18,9 @@ This is an application that can be used to write, save, and delete notes. It use
 *   [Contributing](#Contributing)
 *   [Tests](#Tests)
 
+![Screenshot 1](public/assets/images/note_app_1.png)
+![Screenshot 2](public/assets/images/note_app_2.png)
+
 ## Installation
 
 There is nothing to install to use this application. 
@@ -32,7 +35,7 @@ Please email me at the email address listed below with any questions about this 
 
 [jdavidrice@gmail.com](mailto:jdavidrice@gmail.com)
 
-Follow this link to see some of my other projects.
+Follow this link to see my other projects.
 
 [GitHub Profile](https://github.com/jdavidrice)
 
